@@ -6,7 +6,7 @@
 - *College of Communication Engineering, Jilin University*
 
 ## 🔥 News
-
+- [12/2025] The code is released.
 - [11/2025] SPJFNet accepted to AAAI 2026.
 
 ## 1. Abstract
