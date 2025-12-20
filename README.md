@@ -18,8 +18,7 @@ Current dark image restoration methods suffer from severe efficiency bottlenecks
 
 ## SPJFNet
 
-![Over-all-Architecture](<img width="1388" height="474" alt="image" src="https://github.com/user-attachments/assets/b1bb1939-0f66-47a1-aa5a-d723e2fdc55f" />
-)
+![Over-all-Architecture](https://github.com/user-attachments/assets/791eac49-acda-48b7-aa26-fd368426868c)
 
 
 ## 2. Prepare Dataset
