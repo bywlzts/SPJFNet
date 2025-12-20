@@ -1,6 +1,6 @@
 # [AAAI 2026] SPJFNet: Self-Mining Prior-Guided Joint Frequency Enhancement for Ultra-Efficient Dark Image Restoration
 
-- *Tongshun Zhang, Pingping Liu*, Zijian Zhang, Qiuzhan Zhou*
+- *Tongshun Zhang, Pingping Liu, Zijian Zhang, Qiuzhan Zhou*
 - *College of Computer Science and Technology, Jilin University*
 - *Key Laboratory of Symbolic Computation and Knowledge Engineering of Ministry of Education*
 - *College of Communication Engineering, Jilin University*
