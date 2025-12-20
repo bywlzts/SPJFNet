@@ -14,7 +14,7 @@ Current dark image restoration methods suffer from severe efficiency bottlenecks
 
 ## Motivation
 
-![Motivation](src="https://github.com/user-attachments/assets/87fd721f-05c9-47c3-a107-14b72d750539")
+![Motivation](https://github.com/user-attachments/assets/87fd721f-05c9-47c3-a107-14b72d750539)
 
 ## SPJFNet
 
