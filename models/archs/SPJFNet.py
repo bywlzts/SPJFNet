@@ -227,7 +227,7 @@ class DFGFHigh(nn.Module):
             nn.Conv2d(nf, nf, 3, 1, 1, groups=4)
         )
 
-        self.convf2 = nn.Sequential(
+        self.convf3 = nn.Sequential(
             Depth_conv(in_ch=nf, out_ch=nf),
             # nn.BatchNorm2d(ch),
             nn.LeakyReLU(0.1),
@@ -264,6 +264,6 @@ class DFGFHigh(nn.Module):
 
         f3 = self.convf1_first(f3)
         f3 = f3 + attention * f3
-        f3 = self.conv3_out(self.convf1(f3))
+        f3 = self.conv3_out(self.convf3(f3))
 
         return (f1, f2, f3)

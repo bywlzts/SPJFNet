@@ -60,7 +60,7 @@ class LowFrequencyProcessing(nn.Module):
         x4, fr, y_map = self.fft_blocks[4](x4_input, fr, y_map)
 
         x5_input = torch.cat((x4, x0), dim=1)
-        x5_input = self.concat_layers[1](x5_input)
+        x5_input = self.concat_layers[2](x5_input)
         x5, fr, y_map = self.fft_blocks[5](x5_input, fr, y_map)
 
         fft_features = x5
