@@ -1,4 +1,4 @@
-# [AAAI 2026] SPJFNet: Self-Mining Prior-Guided Joint Frequency Enhancement for Ultra-Efficient Dark Image Restoration
+# [AAAI 2026] SPJFNet: Self-Mining Prior-Guided Joint Frequency Enhancement for Ultra-Efficient Dark Image Restoration [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38277/42239)
 
 - *Tongshun Zhang, Pingping Liu, Zijian Zhang, Qiuzhan Zhou*
 - *College of Computer Science and Technology, Jilin University*
@@ -49,11 +49,14 @@ This repo is based on [DMFourLLIE](https://github.com/bywlzts/DMFourLLIE).
 If you find the project useful, please cite:  
 
 ```bibtex  
-@article{zhang2025spjfnet,
-  title={SPJFNet: Self-Mining Prior-Guided Joint Frequency Enhancement for Ultra-Efficient Dark Image Restoration},
-  author={Zhang, Tongshun and Liu, Pingling and Zhang, Zijian and Zhou, Qiuzhan},
-  journal={arXiv preprint arXiv:2508.04041},
-  year={2025}
+@inproceedings{zhang2026spjfnet,
+  title={Spjfnet: self-mining prior-guided joint frequency enhancement for ultra-efficient dark image restoration},
+  author={Zhang, Tongshun and Liu, Pingping and Zhang, Zijian and Zhou, Qiuzhan},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={15},
+  pages={12798--12806},
+  year={2026}
 }
 @inproceedings{zhang2024dmfourllie,  
     title={DMFourLLIE: Dual-Stage and Multi-Branch Fourier Network for Low-Light Image Enhancement},  
